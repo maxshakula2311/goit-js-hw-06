@@ -1,1 +1,1 @@
-# goit-js-hw-01
+hello, how's your day today?
